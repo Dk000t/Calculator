@@ -1,2 +1,3 @@
 # Calculator
-Calcolatrice HTML + CSS
+
+HTML and CSS Calculator
